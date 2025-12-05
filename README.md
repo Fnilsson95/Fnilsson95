@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey there!
+
+I'm a student enrolled in the Software Engineering and Management (SEM) program at Gothenburg University.
+I am currently working on **STIP – Stockholm Transport Intelligence System**, a project for the course DIT826 – Data Intensive AI.
+
+STIP is a data-driven application that integrates real-time and historical public transport data from Stockholm (SL).
+The goal is to provide users with intelligent features such as delay predictions, route insights, and improved travel information by combining machine learning, backend services, and a modern frontend.
 
 <!--
 **Fnilsson95/Fnilsson95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
