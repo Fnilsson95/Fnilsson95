@@ -6,6 +6,7 @@ I am currently working on **STIP – Stockholm Transport Intelligence System**, 
 STIP is a data-driven application that integrates real-time and historical public transport data from Stockholm (SL).
 The goal is to provide users with intelligent features such as delay predictions, route insights, and improved travel information by combining machine learning, backend services, and a modern frontend.
 
+It will be uploaded to GitHub in the near future as the course finishes.
 <!--
 **Fnilsson95/Fnilsson95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
