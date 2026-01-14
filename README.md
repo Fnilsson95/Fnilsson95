@@ -1,15 +1,13 @@
 ## Hey there!
 
-I'm a student enrolled in the Software Engineering and Management (SEM) program at Gothenburg University.
+I'm a student enrolled in the Software Engineering and Management (SEM) program at Gothenburg University (Graduate summer 2026).
 
-I am currently working on **STIP – Stockholm Transit Intelligence System**. 
-STIP is a data-driven project developed as part of the DIT826 – Data Intensive AI course in the Software Engineering and Management (SEM) program at Gothenburg University.
+I am currently working on FlashNuggets, an independent software engineering project developed alongside my studies.
 
-The system integrates real-time and historical public transport data from Stockholm (SL) to provide intelligent travel insights, such as delay predictions and improved route information. By combining data engineering, machine learning, and modern web technologies, STIP aims to help users make more informed travel decisions before and during their journeys.
+FlashNuggets is designed to support efficient learning and knowledge retention through concise, well-structured content units (“nuggets”). The project focuses on modern software engineering principles such as clean architecture, scalability, and maintainability, while providing a practical and user-friendly platform for creating, managing, and consuming learning content.
 
-STIP is built as a cloud-ready, microservice-based application, featuring backend services, machine learning models, REST APIs, and a modern web frontend. The project emphasizes scalability, real-world data processing, and applied AI in a production-like environment.
+Development progress may vary over time, as I will be dedicating a significant portion of my efforts to my bachelor thesis, but FlashNuggets remains an active project. The repository will be made public on GitHub when it reaches a suitable level of maturity.
 
-The repository will be made public on GitHub upon completion of the course.
 <!--
 **Fnilsson95/Fnilsson95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
