@@ -1,12 +1,12 @@
 ## Hey there!
 
-I'm a student enrolled in the Software Engineering and Management (SEM) program at Gothenburg University (Graduate summer 2026).
+I am a Software Engineering and Management (SEM) student at the University of Gothenburg, graduating in summer 2026.
 
-I am currently working on FlashNuggets, an independent software engineering project developed alongside my studies.
+I am currently focused on my bachelor thesis, which is conducted in collaboration with an external company in an industrial setting. The thesis explores the development of a GraphRAG-based documentation chatbot and investigates how non-functional requirements can be identified, prioritized, scoped, measured, and evaluated throughout the development process.
 
-FlashNuggets is designed to support efficient learning and knowledge retention through concise, well-structured content units (“nuggets”). The project focuses on modern software engineering principles such as clean architecture, scalability, and maintainability, while providing a practical and user-friendly platform for creating, managing, and consuming learning content.
+The project combines software engineering, requirements engineering, and AI-driven system design, with a particular focus on quality concerns such as performance, maintainability, traceability, and reliability in documentation-grounded intelligent systems.
 
-Development progress may vary over time, as I will be dedicating a significant portion of my efforts to my bachelor thesis, but FlashNuggets remains an active project. The repository will be made public on GitHub when it reaches a suitable level of maturity.
+My work bridges academic research and practical implementation, with the goal of understanding how modern AI-supported solutions can be engineered systematically in real-world software environments.
 
 <!--
 **Fnilsson95/Fnilsson95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
