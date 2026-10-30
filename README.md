@@ -1,14 +1,32 @@
 # Hey, I'm Fredrik
 
-Software Engineer — BSc Software Engineering and Management, University of Gothenburg (2026)
+Software Engineer · BSc Software Engineering and Management, University of Gothenburg (2026)
+📍 Gothenburg, Sweden
 
-I build across the stack: backend, ML, and IoT. Alongside my studies I spent several years in operational leadership at DHL Express, which shaped how I work: methodical, deadline-aware, and big on ownership.
+## About me
+- Graduated 2026 in Software Engineering and Management at the University of Gothenburg.
+- Bachelor thesis on applying a five-step non-functional-requirements framework in an industrial
+  case study, with a GraphRAG-based documentation chatbot as the artifact.
+- Knowledge in microservice architectures, REST APIs, messaging (MQTT, RabbitMQ) and CI/CD.
+- Comfortable across the stack: backend, ML, and IoT with microcontrollers.
 
-## What I'm working on currently
+## Core skills
+| Category | Technologies |
+|---|---|
+| Languages | Python, Java, C/C++, TypeScript/JavaScript, SQL |
+| Backend | Spring Boot, FastAPI, Django REST Framework |
+| Frontend | React, Vue 3 |
+| DevOps | Docker, Docker Compose, Kubernetes (GKE), GitLab CI, GitHub Actions |
+| Data & ML | PostgreSQL, Redis, Scikit-learn, XGBoost, pandas, NumPy, GraphRAG |
+| Testing | JUnit, Pytest, Postman |
 
-**Performance Analytics Platform** *(ongoing)*: a Spring Boot backend for tracking workouts, body measurements, and cardio sessions, with analytics and predictive insights layered on top. Modular monolith architecture, PostgreSQL + Flyway migrations, JWT auth, Testcontainers-backed test suite. Personally motivated as much as professionally: training, a physically demanding job, and an interest in tracking day-to-day data all feed into it.
-`Java · Spring Boot · PostgreSQL · Docker`
+## Highlighted projects
+| Project | Focus | What it is |
+|---|---|---|
+| [**GraphRAG Chatbot**](https://github.com/Fnilsson95/graphrag-chatbot) | Python, FastAPI, GraphRAG, Redis, Docker | Documentation chatbot built for my bachelor thesis. Pipeline with clarification step, source citations, two-level response cache and rate limiting. Handed over to an industry partner. |
+| [**STIP**](https://github.com/Fnilsson95/STIP) | Django, React, RabbitMQ, Kubernetes, XGBoost | Stockholm Transit Intelligence Platform: route planning combined with delay prediction, as microservices on GKE. |
+| [**SmileSelect**](https://github.com/Fnilsson95/SmileSelect) | Java 21, Spring Boot, Vue 3, MQTT, GitLab CI | Distributed booking system for dental appointments with API gateway, service registry, JWT auth and stress testing. |
+| [**SaunaBuddy**](https://github.com/Fnilsson95/SaunaBuddy) | Wio Terminal, Arduino, MQTT, Node/Vite | IoT system that tracks sauna sessions (temperature, humidity, duration) with live web dashboard and threshold alarms. |
 
 ## Get in touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/fnilsson95)
+[LinkedIn](https://linkedin.com/in/fnilsson95)
